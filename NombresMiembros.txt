@@ -1,10 +1,10 @@
-Rama 1 "funcionalidad-inicial" - Luciana Molina Gregoli
+Rama 1 - Luciana Molina Gregoli
 
-Rama 2 "funcionalidad-Word" - Adrián Garrido
+Rama 2 - Adrián Garrido
 
-Rama 3 "funcionalidad-diseño" - Andrea Orpez
+Rama 3 - Andy Orpez
 
-Rama 4 "funcionalidad-contenido" - Daniel Serrano
+Rama 4 - Daniel Serrano
 
 Pregunta 1 
 

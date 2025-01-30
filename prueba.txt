@@ -1,0 +1,75 @@
+TAREA GITHUB
+
+Pasos a seguir
+
+1. Clonamos el repositorio
+	- Entramos a GitHub Desktop > Current Repository > Add > Clone repository > URL > 
+	la URL es la siguiente --> https://github.com/luciana-medac/control-versiones-8
+
+2. Creamos la rama
+	- En GitHub Desktop > brach > new Branch > ponemos el nombre de nuestra rama
+
+3. Ya solo queda hacer la tarea :D
+
+¡ATENCIÓN! --> al subir vuestros archivos, aseguraros que sea en vuestra rama y con COMMITS detallados (Ejemplo: "Modificada la estructura del documento Word")
+
+HAY QUE HACER AL MENOS 3 COMMITS
+
+(si no se os ha subido a vuestra rama, no preocuparse, se puede modificar)
+
+PREGUNTAS A RESPONDER
+
+1.
+2.
+3. 
+
+
+TAREAS
+
+1. Rama 1 - "funcionalidad-inicial"
+
+	i. Crear el repositorio y el .txt
+	ii. Contestar a la pregunta 1
+	iii. Añadir a celiamedac como colaboradora
+
+2. Rama 2 - "funcionalidad-Word"
+	
+	i. Crear el archivo Word(se va a hacer en documentos de Google mejor)
+	ii. Crear la tabla comparativa y responder la pregunta 2
+	iii. Pasar el doc a pdf
+
+3. Rama 3 - "funcionalidad-contenido-1"
+	
+	i. Poner un titulo al doc "Diferencias entre GitLab y GitHub"
+	ii. Realizar la estructura del documento y ocuparse del diseño
+	iii. Subir el pdf al repositorio
+
+4. Rama 4 - "funcionalidad-contenido-4"
+
+	i. Revisar que el txt esté bien (que cada rama tenga el nombre correspondiente de 	quien lo hace) 
+	ii. Rellenar la tabla con las diferencias entre GitLab y GitHub
+	iii. Subir los cambios, comprobar que todo esté correctamente
+
+Final de la tarea: yo hago los merge una vez todos hayamos hecho su parte(Luciana)
+
+Sois unos grandes, es fácil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

@@ -1,0 +1,20 @@
+Rama 1 - Luciana Molina Gregoli
+
+Rama 2 - Adrián Garrido
+
+Rama 3 - Andy Orpez
+
+Rama 4 - Daniel Serrano
+
+Pregunta 1 
+
+¿Qué es GitLab?
+
+- Es un servicio web que implementa un sistema de control de versiones para facilitar el trabajo colaborativo mediante la utilización de Git
+
+Pregunta 2
+
+¿Qué es GitHub?
+
+- GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git
+

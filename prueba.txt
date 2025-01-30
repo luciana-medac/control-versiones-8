@@ -19,9 +19,9 @@ HAY QUE HACER AL MENOS 3 COMMITS
 
 PREGUNTAS A RESPONDER
 
-1.
-2.
-3. 
+1. Que es GitLab
+2. Que es GitHub
+3. Diferencias entre unos y otros
 
 
 TAREAS
@@ -35,7 +35,7 @@ TAREAS
 2. Rama 2 - "funcionalidad-Word"
 	
 	i. Crear el archivo Word(se va a hacer en documentos de Google mejor)
-	ii. Crear la tabla comparativa y responder la pregunta 2
+	ii. Crear la tabla comparativa y responder la pregunta 2, añadir la pregunta 1 al doc (está en el TXT de Nombres)
 	iii. Pasar el doc a pdf
 
 3. Rama 3 - "funcionalidad-contenido-1"

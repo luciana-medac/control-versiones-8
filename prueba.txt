@@ -38,15 +38,15 @@ TAREAS
 	ii. Crear la tabla comparativa y responder la pregunta 2, añadir la pregunta 1 al doc (está en el TXT de Nombres)
 	iii. Pasar el doc a pdf
 
-3. Rama 3 - "funcionalidad-contenido-1"
+3. Rama 3 - "funcionalidad-diseño"
 	
 	i. Poner un titulo al doc "Diferencias entre GitLab y GitHub"
-	ii. Realizar la estructura del documento y ocuparse del diseño
+	ii. Realizar la estructura del documento y ocuparse del diseño del documento
 	iii. Subir el pdf al repositorio
 
-4. Rama 4 - "funcionalidad-contenido-4"
+4. Rama 4 - "funcionalidad-contenido"
 
-	i. Revisar que el txt esté bien (que cada rama tenga el nombre correspondiente de 	quien lo hace) 
+	i. Revisar que el txt esté bien (que cada rama tenga el nombre correspondiente de quien lo hace) 
 	ii. Rellenar la tabla con las diferencias entre GitLab y GitHub
 	iii. Subir los cambios, comprobar que todo esté correctamente
 

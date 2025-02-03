@@ -1,7 +1,7 @@
-Rama 1 - Luciana Molina Gregoli
+Rama 1 - Funcionalidad Inicial -  Luciana Molina Gregoli
 
-Rama 2 - Adrián Garrido
+Rama 2 Funcionalidad Diseño  - Adrián Garrido
 
-Rama 3 - Andy Orpez
+Rama 3 Funcionalidad Word- Andy Orpez
 
-Rama 4 - Daniel Serrano
+Rama 4 -Funcionaldiad Contenido Daniel Serrano
